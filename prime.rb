@@ -9,9 +9,9 @@
 #   range.none? do |item|
 #      num % item == 0
 #   end
-# 
-# 
-# 
+#
+#
+#
 # end
 # Add  code here!
 def prime?(num)
