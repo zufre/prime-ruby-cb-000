@@ -10,4 +10,3 @@ def prime?(num)
      num % item == 0
   end
 end
-
